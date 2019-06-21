@@ -3,7 +3,7 @@
 ## Overview
 
 ## Weekly Nerd - Maaike van Cruchten en Brit Wijnmaalen
-Maaike and Brit gave a talk about how and why to 'sketchnote'. The visual aspect helps you remember things better. 
+Maaike and Brit gave a talk about how and why to 'sketchnote'. The visual aspect helps you remember things better. It also really helps with your drawing skills! Being able to express yourself in drawing can always come in handy, since an image can tell more than a tousand words. 
 <details>
     <summary>Sketchnotes</summary>
 
