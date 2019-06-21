@@ -2,7 +2,7 @@
 ## Why?
 For the 'meesterproef' (final project of the minor), I'm working on a [project](https://github.com/Maikxx/360-wallscope) for [wallscope](https://wallscope.co.uk/) with three fellow students.
 In this project we decided to work with the framework: 'React'.
-Personnally I had never worked with React before, I knew it existed but had never touched it before this project. 
+Personnally I had never worked with React before, I knew it existed but had never touched it before this project. Here's a [link](https://github.com/jesperingels/meesterproef-1819/blob/master/360-wallscope/README.md) the my repository of the 'meesterproef' where I wrote some notes on learning React.
 
 This will be an article about my view on react which is based on three weeks working with React. So I don't have a lot of experience with it. 
 
